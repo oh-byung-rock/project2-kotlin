@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppTest</string>
+    <string name="head_1">성수</string>
+    <string name="head_2">건대입구</string>
+    <string name="head_3">구의</string>
+    <string name="head_4">강변</string>
+    <string name="head_5">잠실나루</string>
+    <string name="head_6">잠실</string>
+    <string name="head_7">잠실새내</string>
+    <string name="head_8">종합운동장</string>
+    <string name="head_9">삼성</string>
+    <string name="head_10">선릉</string>
+    <string name="head_11">역삼</string>
+    <string name="head_12">강남</string>
+    <string name="head_13">교대</string>
+    <string name="head_14">서초</string>
+    <string name="head_15">방배</string>
+    <string name="head_16">사당</string>
+    <string name="head_17">낙성대</string>
+    <string name="head_18">서울대입구</string>
+    <string name="head_19">봉천</string>
+    <string name="head_20">신림</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

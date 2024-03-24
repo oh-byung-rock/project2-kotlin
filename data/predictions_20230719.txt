@@ -1,0 +1,10 @@
+congestionCar1     48.813040
+congestionCar2     55.390891
+congestionCar3     57.875372
+congestionCar4     72.372271
+congestionCar5     61.276261
+congestionCar6     54.198099
+congestionCar7     71.970299
+congestionCar8     74.837295
+congestionCar9     59.661076
+congestionCar10    71.107255
